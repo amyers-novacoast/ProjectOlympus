@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>725363643201-1h885l7gbmrj829nafi07b5qgu2ba5nk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.725363643201-1h885l7gbmrj829nafi07b5qgu2ba5nk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCI-kYZbmoX9Xo4JNUhy0zAV9gk1iEdL4I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>725363643201</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tsmyers.TableViewTest</string>
+	<key>PROJECT_ID</key>
+	<string>projectolympus-24df5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>projectolympus-24df5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:725363643201:ios:1f2a5dede9d6b3bf</string>
+	<key>DATABASE_URL</key>
+	<string>https://projectolympus-24df5.firebaseio.com</string>
+</dict>
+</plist>
