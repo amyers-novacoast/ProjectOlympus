@@ -47,7 +47,6 @@ class contactsViewController: UIViewController, UITableViewDataSource, UITableVi
 
         routes = RouteAPI.getRoutes()
         routes.sort(by:{ $0.sortRating! < $1.sortRating!})
-        print("Current number of routes: \(routes.count)")
         routesTableView.reloadData()
         print("Updated number of routes: \(routes.count)")
         
